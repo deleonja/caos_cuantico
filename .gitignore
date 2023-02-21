@@ -19,3 +19,8 @@
 *.fmt
 *.fot
 *.cb
+*.bcf
+*.nav
+*.run.xml
+*.snm
+*.tex.bak
