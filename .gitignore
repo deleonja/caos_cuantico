@@ -25,6 +25,7 @@
 *.run.xml
 *.snm
 *.tex.bak
+*.dat
 
 # Directories:
 /QC_CGA/
