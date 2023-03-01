@@ -24,3 +24,7 @@
 *.run.xml
 *.snm
 *.tex.bak
+
+# Directories:
+/QC_CGA/
+.vscode/
