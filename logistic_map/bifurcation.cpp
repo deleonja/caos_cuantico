@@ -29,7 +29,7 @@ int main()
   double growth = min_growth;
   double x_n;
   
-  myfile.open ("bifurcation_data");
+  myfile.open ("bifurcation_data.dat");
 
   for(int i=0; i<growth_intervals; ++i){
     growth += (max_growth - min_growth)/growth_intervals; // Increase growth rate

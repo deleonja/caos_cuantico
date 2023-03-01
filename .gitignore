@@ -1,6 +1,7 @@
 *.pdf
 *Notes.bib
 *.out
+*.o
 *.log
 *.synctex.gz
 *.fdb_latexmk
