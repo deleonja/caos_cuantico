@@ -2,7 +2,7 @@
 Por Jose Alfredo de Leon
 
 <div id="container">
-    <![](https://github.com/deleonja/caos_cuantico/blob/main/rotor_pateado/rotor_pateado.gif) />
+    <![](https://github.com/deleonja/caos_cuantico/blob/main/rotor_pateado/rotor_pateado.gif)>
 </div>
 
 ## Billares clásicos: espacio de colisiones del hongo
