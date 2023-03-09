@@ -1,9 +1,7 @@
 ## Rotor pateado: espacio de fase
 Por Jose Alfredo de Leon
 
-<p align="center">
 ![sdfasdfads](https://github.com/deleonja/caos_cuantico/blob/main/rotor_pateado/rotor_pateado.gif)
-p>
 
 ## Billares clásicos: espacio de colisiones del hongo
 Por Tomás Basile
