@@ -3,7 +3,7 @@ Por Jose Alfredo de Leon
 
 <p align="center">
 
-  <img src="![](https://github.com/deleonja/caos_cuantico/blob/main/rotor_pateado/rotor_pateado.gif)">
+  <img src=![](https://github.com/deleonja/caos_cuantico/blob/main/rotor_pateado/rotor_pateado.gif)>
   This is an image
 
 </p>
