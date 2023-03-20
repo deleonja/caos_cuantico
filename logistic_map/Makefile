@@ -9,5 +9,5 @@ bifurcation.o :: bifurcation.cpp
 	gcc bifurcation.cpp -lstdc++ -lm -o bifurcation.o
 
 clean:
-		-rm -f *.o output
+	-rm -f *.o output
 
