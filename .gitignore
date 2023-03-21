@@ -30,6 +30,8 @@
 # Directories:
 /QC_CGA/
 .vscode/
+*pyfigures/
+*data/
 
 # Environments:
 *env/
