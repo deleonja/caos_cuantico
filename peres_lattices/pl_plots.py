@@ -20,10 +20,15 @@ def peres_lattice_plot(H,I,name):
 
 for lam in linspace(0.0,10,51):
     print(f'Creating lattice for lambda = {lam:.1f} ...')
+    # Parameters
     spin_number = 20
     dimension = int(2*spin_number + 1)
     J = 1.0
+
+    # Hamiltonian and Peres operator
     H = XY_with_field(J, lam,spin_number)
     I = qt.tensor(qt.spin_Jz(spin_number),qt.qeye(dimension)) + qt.tensor(qt.qeye(dimension),qt.spin_Jz(spin_number))
+
+    # Plot
     name = f'peres_lattice_XY_with_field_lam_{lam:.1f}_s_{spin_number}'
     peres_lattice_plot(H,I,name)

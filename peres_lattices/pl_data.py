@@ -42,7 +42,8 @@ def peres_lattice_data_to_cvs(H,I,name):
         data = peres_lattice_data(H,I)
         savetxt('./data/'+name+'.csv', data, delimiter=",")
         return array(data)
-    
+
+# I only used main() for testing purposes, please ignore it
 def main():
     spin_number = 20
     dimension = int(2*spin_number + 1)

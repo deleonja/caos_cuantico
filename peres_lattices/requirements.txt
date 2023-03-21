@@ -1,2 +1,4 @@
+imageio==2.26.1
+matplotlib==3.5.1
 numpy==1.21.5
 qutip==4.7.1

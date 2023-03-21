@@ -11,3 +11,10 @@ Por Tomás Basile
 <p align="center">
   <img src="https://github.com/deleonja/caos_cuantico/blob/main/Billares/Hongo.gif">
 </p>
+
+## Redes de Peres : modelo XY con campo magnético
+Por Adán Castillo
+
+<p align="center">
+  <img src="https://github.com/deleonja/caos_cuantico/peres_lattices/peres_lattice_XY_with_field.gif">
+</p>
