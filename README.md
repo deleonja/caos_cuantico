@@ -16,5 +16,5 @@ Por Tomás Basile
 Por Adán Castillo
 
 <p align="center">
-  <img src="https://github.com/deleonja/caos_cuantico/peres_lattices/peres_lattice_XY_with_field.gif">
+  <img src="https://github.com/deleonja/caos_cuantico/blob/main/peres_lattices/peres_lattice_XY_with_field.gif">
 </p>
